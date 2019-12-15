@@ -1,3 +1,6 @@
+Программа - таймер, изменяющаяя компонент сверху, как
+текст так и дизайн, через каждые 45 секунд.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
